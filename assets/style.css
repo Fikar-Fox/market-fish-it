@@ -67,9 +67,7 @@
     width: 100%;
 }
 
-#header {
-    height: 10px;
-}
+
 
 #footer {
     margin-bottom: 0%;
@@ -104,4 +102,5 @@ html body #footer {
     text-align: center;
     padding: 5px;
     font-weight: bolder;
+
 }
